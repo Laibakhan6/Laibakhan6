@@ -5,10 +5,9 @@ Welcome to my GitHub profile! I am a passionate and driven software developer wi
 
 ## 👨‍💻 About Me
 
-- 🌍 Currently based in [Your Location]
+- 🌍 Currently based in [Karachi,Sindh]
 - 💻 I specialize in Full-Stack Development
-- 🌱 Constantly learning and growing my skills in [Technologies you’re learning]
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 📫 How to reach me: [laibainam2806@gmail.com]
 
 ---
 
