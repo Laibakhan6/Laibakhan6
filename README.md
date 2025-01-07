@@ -9,10 +9,9 @@ Welcome to my GitHub profile! I am a passionate and driven software developer wi
 - 💻 I specialize in Full-Stack Development
 - 📫 How to reach me: [laibainam2806@gmail.com]
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Skills
-
 ### Front-End Development
 - **HTML5, CSS3, JavaScript**
 - **Angular.js, UI/UX**
@@ -21,7 +20,6 @@ Welcome to my GitHub profile! I am a passionate and driven software developer wi
 ### Back-End Development
 - **PHP, ASP.NET**
 - **C#**
-- ****
 
 ### Databases
 - **MySQL, SQL**
@@ -35,7 +33,5 @@ Welcome to my GitHub profile! I am a passionate and driven software developer wi
 - **CI/CD (GitHub Actions, Jenkins)**
 
 ## 📣 Get In Touch
-
 - LinkedIn: [Laibakhan6]
-
 - Email: [laibainam2806@gmail.com]
