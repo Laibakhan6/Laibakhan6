@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Laiba Khan] 👋
 
 Welcome to my GitHub profile! I am a passionate and driven software developer with a focus on building innovative and scalable solutions. Below you'll find a quick overview of my skills, projects, and what I enjoy working on.
 
@@ -16,52 +16,27 @@ Welcome to my GitHub profile! I am a passionate and driven software developer wi
 
 ### Front-End Development
 - **HTML5, CSS3, JavaScript**
-- **React.js, Vue.js**
-- **Tailwind CSS, Bootstrap**
+- **Angular.js, UI/UX**
+- ** Bootstrap CSS**
 
 ### Back-End Development
-- **Node.js, Express.js**
-- **Python (Flask, Django)**
-- **Ruby on Rails**
+- **PHP, ASP.NET**
+- **C#**
+- ****
 
 ### Databases
-- **MySQL, PostgreSQL**
-- **MongoDB, Firebase**
-
-### DevOps & Cloud
-- **Docker, Kubernetes**
-- **AWS, Azure, Google Cloud**
+- **MySQL, SQL**
 
 ### Version Control
 - **Git, GitHub, GitLab**
-
----
 
 ## 🛠 Tools & Technologies
 - **VS Code, IntelliJ IDEA**
 - **Jira, Trello, Slack**
 - **CI/CD (GitHub Actions, Jenkins)**
 
----
-
-## 💼 Projects
-
-- **[Project Name 1](Link)**: Brief description of the project. Tech stack used.
-- **[Project Name 2](Link)**: Brief description of the project. Tech stack used.
-- **[Project Name 3](Link)**: Brief description of the project. Tech stack used.
-
----
-
-## 🌱 Currently Learning
-
-- **[Technology/Framework 1]**
-- **[Technology/Framework 2]**
-- **[Technology/Framework 3]**
-
----
-
 ## 📣 Get In Touch
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
+- LinkedIn: [Laibakhan6]
+
+- Email: [laibainam2806@gmail.com]
